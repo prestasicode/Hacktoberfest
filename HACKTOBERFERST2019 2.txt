@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Microsoft Windows [Version 10.0.18362.418]
 (c) 2019 Microsoft Corporation. All rights reserved.
 
@@ -370,4 +371,378 @@ To https://github.com/prestasicode/surabaya-py.github.io-source.git
    7335830..49531b5  master -> master
 Branch 'master' set up to track remote branch 'master' from 'origin'.
 
+=======
+Microsoft Windows [Version 10.0.18362.418]
+(c) 2019 Microsoft Corporation. All rights reserved.
+
+C:\Users\Ferisa>git init
+Initialized empty Git repository in C:/Users/Ferisa/.git/
+
+C:\Users\Ferisa>git clone https://github.com/prestasicode/Artificial-Neural-Network
+Cloning into 'Artificial-Neural-Network'...
+remote: Enumerating objects: 12, done.
+remote: Counting objects: 100% (12/12), done.
+remote: Compressing objects: 100% (9/9), done.
+remote: Total 12 (delta 0), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (12/12), done.
+
+C:\Users\Ferisa>git clone https://github.com/prestasicode/Hacktoberfest.git
+Cloning into 'Hacktoberfest'...
+warning: You appear to have cloned an empty repository.
+
+C:\Users\Ferisa>dir
+ Volume in drive C is OS
+ Volume Serial Number is 0222-0078
+
+ Directory of C:\Users\Ferisa
+
+10/19/2019  11:13 AM    <DIR>          .
+10/19/2019  11:13 AM    <DIR>          ..
+07/12/2019  04:14 PM    <DIR>          .anaconda
+10/12/2019  04:05 PM    <DIR>          .conda
+10/12/2019  01:13 PM                43 .condarc
+07/12/2019  12:41 AM    <DIR>          .dotnet
+07/20/2019  06:19 PM    <DIR>          .idlerc
+10/01/2019  02:56 PM    <DIR>          .ipynb_checkpoints
+07/07/2019  09:14 PM    <DIR>          .ipython
+10/12/2019  01:36 PM    <DIR>          .jupyter
+07/14/2019  02:05 AM    <DIR>          .keras
+07/14/2019  05:11 PM    <DIR>          .matplotlib
+09/03/2019  08:13 PM    <DIR>          .nbi
+07/14/2019  02:36 AM    <DIR>          .pylint.d
+10/17/2019  11:20 PM    <DIR>          .spyder-py3
+10/10/2019  11:07 PM    <DIR>          .tooling
+07/07/2019  01:42 AM    <DIR>          .vscode
+10/04/2019  09:35 PM           114,342 1. Plot Dasar menggunakan matplotlib.ipynb
+10/01/2019  03:04 PM           111,472 2. Dictionaries & Pandas.ipynb
+10/01/2019  03:05 PM            24,666 3. Logic, Control Flow and Filtering .ipynb
+10/05/2019  11:05 PM    <DIR>          3D Objects
+10/01/2019  03:06 PM         1,418,023 4. Loop.ipynb
+09/05/2019  02:13 PM    <DIR>          Anaconda3
+07/12/2019  03:58 AM    <DIR>          ansel
+10/19/2019  11:09 AM    <DIR>          Artificial-Neural-Network
+10/05/2019  11:05 PM    <DIR>          Contacts
+10/05/2019  11:05 PM    <DIR>          Desktop
+10/17/2019  11:25 PM    <DIR>          Documents
+10/18/2019  09:01 PM    <DIR>          Downloads
+10/05/2019  11:05 PM    <DIR>          Favorites
+09/01/2019  02:34 AM    <DIR>          Flappy Bird
+09/14/2019  09:43 AM             3,258 gender_submission.csv
+10/19/2019  11:13 AM    <DIR>          Hacktoberfest
+03/15/2018  10:31 AM       261,252,954 kivaData_augmented.csv
+10/05/2019  11:05 PM    <DIR>          Links
+10/05/2019  09:45 PM    <DIR>          Microsoft
+10/05/2019  11:05 PM    <DIR>          Music
+09/01/2019  01:42 AM    <DIR>          My First Unity Game
+10/12/2019  01:43 PM           145,236 naivebayes.ipynb
+09/24/2019  03:19 PM             3,900 NaiveBayesClassification_dataminingtask.ipynb
+09/15/2019  05:26 AM    <DIR>          New folder
+10/19/2019  10:52 AM    <DIR>          OneDrive
+10/16/2019  03:07 AM    <DIR>          Pictures
+03/15/2019  12:17 PM    <DIR>          Roaming
+10/05/2019  11:05 PM    <DIR>          Saved Games
+09/05/2019  12:16 PM    <DIR>          seaborn-data
+10/05/2019  11:05 PM    <DIR>          Searches
+07/12/2019  11:26 PM    <DIR>          source
+10/04/2019  09:32 PM             3,258 submission.csv
+09/14/2019  09:43 AM            28,629 test.csv
+09/14/2019  09:47 AM            61,194 train.csv
+09/24/2019  05:35 PM           146,808 Untitled.ipynb
+10/19/2019  10:06 AM    <DIR>          Videos
+09/10/2019  09:11 PM         1,096,492 VisualizationData_dataminingtask.ipynb
+09/14/2019  09:14 AM    <DIR>          wekafiles
+              14 File(s)    264,410,275 bytes
+              41 Dir(s)  626,025,820,160 bytes free
+
+C:\Users\Ferisa>dir
+ Volume in drive C is OS
+ Volume Serial Number is 0222-0078
+
+ Directory of C:\Users\Ferisa
+
+10/19/2019  11:13 AM    <DIR>          .
+10/19/2019  11:13 AM    <DIR>          ..
+07/12/2019  04:14 PM    <DIR>          .anaconda
+10/12/2019  04:05 PM    <DIR>          .conda
+10/12/2019  01:13 PM                43 .condarc
+07/12/2019  12:41 AM    <DIR>          .dotnet
+07/20/2019  06:19 PM    <DIR>          .idlerc
+10/01/2019  02:56 PM    <DIR>          .ipynb_checkpoints
+07/07/2019  09:14 PM    <DIR>          .ipython
+10/12/2019  01:36 PM    <DIR>          .jupyter
+07/14/2019  02:05 AM    <DIR>          .keras
+07/14/2019  05:11 PM    <DIR>          .matplotlib
+09/03/2019  08:13 PM    <DIR>          .nbi
+07/14/2019  02:36 AM    <DIR>          .pylint.d
+10/17/2019  11:20 PM    <DIR>          .spyder-py3
+10/10/2019  11:07 PM    <DIR>          .tooling
+07/07/2019  01:42 AM    <DIR>          .vscode
+10/04/2019  09:35 PM           114,342 1. Plot Dasar menggunakan matplotlib.ipynb
+10/01/2019  03:04 PM           111,472 2. Dictionaries & Pandas.ipynb
+10/01/2019  03:05 PM            24,666 3. Logic, Control Flow and Filtering .ipynb
+10/05/2019  11:05 PM    <DIR>          3D Objects
+10/01/2019  03:06 PM         1,418,023 4. Loop.ipynb
+09/05/2019  02:13 PM    <DIR>          Anaconda3
+07/12/2019  03:58 AM    <DIR>          ansel
+10/19/2019  11:09 AM    <DIR>          Artificial-Neural-Network
+10/05/2019  11:05 PM    <DIR>          Contacts
+10/05/2019  11:05 PM    <DIR>          Desktop
+10/17/2019  11:25 PM    <DIR>          Documents
+10/18/2019  09:01 PM    <DIR>          Downloads
+10/05/2019  11:05 PM    <DIR>          Favorites
+09/01/2019  02:34 AM    <DIR>          Flappy Bird
+09/14/2019  09:43 AM             3,258 gender_submission.csv
+10/19/2019  11:13 AM    <DIR>          Hacktoberfest
+03/15/2018  10:31 AM       261,252,954 kivaData_augmented.csv
+10/05/2019  11:05 PM    <DIR>          Links
+10/05/2019  09:45 PM    <DIR>          Microsoft
+10/05/2019  11:05 PM    <DIR>          Music
+09/01/2019  01:42 AM    <DIR>          My First Unity Game
+10/12/2019  01:43 PM           145,236 naivebayes.ipynb
+09/24/2019  03:19 PM             3,900 NaiveBayesClassification_dataminingtask.ipynb
+09/15/2019  05:26 AM    <DIR>          New folder
+10/19/2019  10:52 AM    <DIR>          OneDrive
+10/16/2019  03:07 AM    <DIR>          Pictures
+03/15/2019  12:17 PM    <DIR>          Roaming
+10/05/2019  11:05 PM    <DIR>          Saved Games
+09/05/2019  12:16 PM    <DIR>          seaborn-data
+10/05/2019  11:05 PM    <DIR>          Searches
+07/12/2019  11:26 PM    <DIR>          source
+10/04/2019  09:32 PM             3,258 submission.csv
+09/14/2019  09:43 AM            28,629 test.csv
+09/14/2019  09:47 AM            61,194 train.csv
+09/24/2019  05:35 PM           146,808 Untitled.ipynb
+10/19/2019  10:06 AM    <DIR>          Videos
+09/10/2019  09:11 PM         1,096,492 VisualizationData_dataminingtask.ipynb
+09/14/2019  09:14 AM    <DIR>          wekafiles
+              14 File(s)    264,410,275 bytes
+              41 Dir(s)  626,022,699,008 bytes free
+
+C:\Users\Ferisa>F:
+
+F:\>dir
+ Volume in drive F is New Volume
+ Volume Serial Number is 0A68-F889
+
+ Directory of F:\
+
+10/09/2019  01:41 PM            40,724 bdd2cfcd-3242-4ffa-8e33-4885f183ca36.jfif
+10/07/2019  01:13 PM    <DIR>          bismillahirrahmanirrahim final project 122
+10/03/2019  07:49 AM    <DIR>          data-science-with-python-master
+10/02/2019  08:47 AM        19,931,136 LatihanDB3
+10/18/2019  08:52 PM    <DIR>          Lecturer (Important)
+10/07/2019  03:27 PM    <DIR>          pic
+09/27/2019  11:56 AM    <DIR>          practical work(done)
+09/27/2019  11:56 AM    <DIR>          prepare lkmmtd
+10/17/2019  07:18 PM           579,573 Screenshot_20191017-165027_Get Rich.jpg
+10/17/2019  07:18 PM            61,375 Screenshot_20191017-165114_Get Rich.jpg
+10/17/2019  07:18 PM            54,441 Screenshot_20191017-165116_Get Rich.jpg
+10/17/2019  07:21 PM           684,498 Screenshot_20191017-165119_Get Rich.jpg
+10/17/2019  07:18 PM           586,053 Screenshot_20191017-165250_Get Rich.jpg
+10/17/2019  07:18 PM           691,503 Screenshot_20191017-165316_Get Rich.jpg
+10/17/2019  07:18 PM           701,161 Screenshot_20191017-165329_Get Rich.jpg
+10/17/2019  07:18 PM           728,640 Screenshot_20191017-165334_Get Rich.jpg
+10/17/2019  07:17 PM           829,420 Screenshot_20191017-165350_Get Rich.jpg
+10/17/2019  07:18 PM           654,187 Screenshot_20191017-165414_Get Rich.jpg
+10/17/2019  07:18 PM           696,755 Screenshot_20191017-165418_Get Rich.jpg
+10/17/2019  07:17 PM           810,099 Screenshot_20191017-165430_Get Rich.jpg
+10/17/2019  07:17 PM           801,627 Screenshot_20191017-165435_Get Rich.jpg
+10/17/2019  07:17 PM           841,093 Screenshot_20191017-165820_Get Rich.jpg
+10/17/2019  07:17 PM           826,940 Screenshot_20191017-165828_Get Rich.jpg
+10/17/2019  07:17 PM           827,675 Screenshot_20191017-165839_Get Rich.jpg
+10/17/2019  07:17 PM           835,427 Screenshot_20191017-165901_Get Rich.jpg
+10/17/2019  07:17 PM           831,848 Screenshot_20191017-165914_Get Rich.jpg
+10/17/2019  07:16 PM           868,176 Screenshot_20191017-165936_Get Rich.jpg
+10/17/2019  07:16 PM           604,411 Screenshot_20191017-165942_Get Rich.jpg
+10/17/2019  07:16 PM           662,866 Screenshot_20191017-170002_Get Rich.jpg
+10/17/2019  07:16 PM           711,182 Screenshot_20191017-170008_Get Rich.jpg
+10/17/2019  07:16 PM           801,044 Screenshot_20191017-170012_Get Rich.jpg
+10/17/2019  07:16 PM           837,517 Screenshot_20191017-170300_Get Rich.jpg
+10/17/2019  07:16 PM           644,714 Screenshot_20191017-170311_Get Rich.jpg
+10/17/2019  07:16 PM           824,723 Screenshot_20191017-170329_Get Rich.jpg
+10/17/2019  07:15 PM           702,546 Screenshot_20191017-170338_Get Rich.jpg
+10/17/2019  07:15 PM           734,078 Screenshot_20191017-170344_Get Rich.jpg
+10/17/2019  07:15 PM           700,887 Screenshot_20191017-170403_Get Rich.jpg
+10/17/2019  07:15 PM           702,305 Screenshot_20191017-170532_Get Rich.jpg
+10/17/2019  07:15 PM           676,716 Screenshot_20191017-170538_Get Rich.jpg
+10/17/2019  07:15 PM           703,717 Screenshot_20191017-170543_Get Rich.jpg
+10/17/2019  07:15 PM           818,976 Screenshot_20191017-170555_Get Rich.jpg
+10/17/2019  07:15 PM           116,909 Screenshot_20191017-175716_Get Rich.jpg
+10/17/2019  07:15 PM           713,166 Screenshot_20191017-175723_Get Rich.jpg
+10/17/2019  08:17 PM           627,405 Screenshot_20191017-201657_Get Rich.jpg
+10/17/2019  08:22 PM           894,551 Screenshot_20191017-202158_Get Rich.jpg
+10/17/2019  08:22 PM           862,553 Screenshot_20191017-202226_Get Rich.jpg
+10/17/2019  08:39 PM           594,685 Screenshot_20191017-202236_Get Rich.jpg
+10/17/2019  08:38 PM           767,197 Screenshot_20191017-203559_Get Rich.jpg
+10/17/2019  08:39 PM           780,854 Screenshot_20191017-203620_Get Rich.jpg
+10/17/2019  08:38 PM           764,863 Screenshot_20191017-203626_Get Rich.jpg
+10/17/2019  08:38 PM           788,203 Screenshot_20191017-203637_Get Rich.jpg
+10/17/2019  08:38 PM           722,002 Screenshot_20191017-203704_Get Rich.jpg
+10/09/2019  02:19 AM    <DIR>          supported software
+10/19/2019  11:19 AM                27 Test.txt
+              47 File(s)     50,640,448 bytes
+               7 Dir(s)  172,530,847,744 bytes free
+
+F:\>C:
+
+C:\Users\Ferisa>cd hacktoberfest
+
+C:\Users\Ferisa\Hacktoberfest>dir
+ Volume in drive C is OS
+ Volume Serial Number is 0222-0078
+
+ Directory of C:\Users\Ferisa\Hacktoberfest
+
+10/19/2019  11:22 AM    <DIR>          .
+10/19/2019  11:22 AM    <DIR>          ..
+10/19/2019  11:23 AM                27 test.txt
+               1 File(s)             27 bytes
+               2 Dir(s)  626,021,724,160 bytes free
+
+C:\Users\Ferisa\Hacktoberfest>git config --global user.email "ferisatri04@gmail.com"
+
+C:\Users\Ferisa\Hacktoberfest>git ocnfig --global user.name "Ferisa"
+git: 'ocnfig' is not a git command. See 'git --help'.
+
+The most similar command is
+        config
+
+C:\Users\Ferisa\Hacktoberfest>git config --global user.name "Ferisa"
+
+C:\Users\Ferisa\Hacktoberfest>git add .
+
+C:\Users\Ferisa\Hacktoberfest>git commit -m "q"
+[master (root-commit) 510fd53] q
+ 1 file changed, 1 insertion(+)
+ create mode 100644 test.txt
+
+C:\Users\Ferisa\Hacktoberfest>git remote
+origin
+
+C:\Users\Ferisa\Hacktoberfest>git remote get-url origin
+https://github.com/prestasicode/Hacktoberfest.git
+
+C:\Users\Ferisa\Hacktoberfest>git push origin master
+Enumerating objects: 3, done.
+Counting objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 226 bytes | 226.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To https://github.com/prestasicode/Hacktoberfest.git
+ * [new branch]      master -> master
+
+C:\Users\Ferisa\Hacktoberfest>git commit -m "tambah"
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+        modified:   test.txt
+
+no changes added to commit
+
+C:\Users\Ferisa\Hacktoberfest>git add .
+
+C:\Users\Ferisa\Hacktoberfest>git commit -m "tambah"
+[master 4bda05e] tambah
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+C:\Users\Ferisa\Hacktoberfest>git remote
+origin
+
+C:\Users\Ferisa\Hacktoberfest>
+C:\Users\Ferisa\Hacktoberfest>git remote get-url origin
+https://github.com/prestasicode/Hacktoberfest.git
+
+C:\Users\Ferisa\Hacktoberfest>git push origin master
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Writing objects: 100% (3/3), 263 bytes | 65.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To https://github.com/prestasicode/Hacktoberfest.git
+   510fd53..4bda05e  master -> master
+
+C:\Users\Ferisa\Hacktoberfest>
+C:\Users\Ferisa\Hacktoberfest>git clone https://github.com/prestasicode/surabaya-py.github.io-source.git
+Cloning into 'surabaya-py.github.io-source'...
+remote: Enumerating objects: 1934, done.
+remote: Counting objects: 100% (1934/1934), done.
+remote: Compressing objects: 100% (1758/1758), done.
+                                                                                                                        Receiving objects: 100% (1934/1934), 5.04 MiB | 240.00 KiB/s, done.
+Resolving deltas: 100% (170/170), done.
+
+C:\Users\Ferisa\Hacktoberfest>git add .
+
+C:\Users\Ferisa\Hacktoberfest>git commit -m "pesan kesan Hacktober Fest 2019"
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+
+C:\Users\Ferisa\Hacktoberfest>git remote origin
+error: Unknown subcommand: origin
+usage: git remote [-v | --verbose]
+   or: git remote add [-t <branch>] [-m <master>] [-f] [--tags | --no-tags] [--mirror=<fetch|push>] <name> <url>
+   or: git remote rename <old> <new>
+   or: git remote remove <name>
+   or: git remote set-head <name> (-a | --auto | -d | --delete | <branch>)
+   or: git remote [-v | --verbose] show [-n] <name>
+   or: git remote prune [-n | --dry-run] <name>
+   or: git remote [-v | --verbose] update [-p | --prune] [(<group> | <remote>)...]
+   or: git remote set-branches [--add] <name> <branch>...
+   or: git remote get-url [--push] [--all] <name>
+   or: git remote set-url [--push] <name> <newurl> [<oldurl>]
+   or: git remote set-url --add <name> <newurl>
+   or: git remote set-url --delete <name> <url>
+
+    -v, --verbose         be verbose; must be placed before a subcommand
+
+
+C:\Users\Ferisa\Hacktoberfest>git remote get-url origin
+https://github.com/prestasicode/Hacktoberfest.git
+
+C:\Users\Ferisa\Hacktoberfest>git push origin master
+Everything up-to-date
+
+C:\Users\Ferisa\Hacktoberfest>dir
+ Volume in drive C is OS
+ Volume Serial Number is 0222-0078
+
+ Directory of C:\Users\Ferisa\Hacktoberfest
+
+10/19/2019  01:00 PM    <DIR>          .
+10/19/2019  01:00 PM    <DIR>          ..
+10/19/2019  11:45 AM                42 test.txt
+               1 File(s)             42 bytes
+               2 Dir(s)  625,858,838,528 bytes free
+
+C:\Users\Ferisa\Hacktoberfest>cd surabaya-py.github.io-source
+The system cannot find the path specified.
+
+C:\Users\Ferisa\Hacktoberfest>cd ..
+
+C:\Users\Ferisa>cd surabaya-py.github.io-source>
+The syntax of the command is incorrect.
+
+C:\Users\Ferisa>cd surabaya-py.github.io-source
+
+C:\Users\Ferisa\surabaya-py.github.io-source>git add .
+
+C:\Users\Ferisa\surabaya-py.github.io-source>git commit -m "pesan kesan"
+[master 49531b5] pesan kesan
+ 2 files changed, 20 insertions(+)
+ create mode 100644 .vscode/settings.json
+ create mode 100644 content/articles/Meet Up/Hacktoberfest_ferisa.md
+
+C:\Users\Ferisa\surabaya-py.github.io-source>git push -u origin master
+Enumerating objects: 12, done.
+Counting objects: 100% (12/12), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (7/7), done.
+Writing objects: 100% (8/8), 1.42 KiB | 728.00 KiB/s, done.
+Total 8 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/prestasicode/surabaya-py.github.io-source.git
+   7335830..49531b5  master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+
+>>>>>>> 0c0a4aa31a55268347384749563b08d592ace1f8
 C:\Users\Ferisa\surabaya-py.github.io-source>
